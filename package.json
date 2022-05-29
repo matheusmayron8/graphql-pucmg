@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/matheusmayron8/graphql-pucmg/issues"
   },
-  "homepage": "https://github.com/matheusmayron8/graphql-pucmg#readme"
+  "homepage": "https://github.com/matheusmayron8/graphql-pucmg#readme",
+  "dependencies": {
+    "graphql": "^16.5.0"
+  }
 }
