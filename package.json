@@ -1,0 +1,19 @@
+{
+  "name": "graphql-pucmg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusmayron8/graphql-pucmg.git"
+  },
+  "author": "Matheus Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusmayron8/graphql-pucmg/issues"
+  },
+  "homepage": "https://github.com/matheusmayron8/graphql-pucmg#readme"
+}
